@@ -26,7 +26,7 @@ This project analyzes global AI job market trends using exploratory data analysi
 (Insert screenshot here after uploading image)
 
 ## 📄 Report
-[View PDF](paste-your-drive-link-here)
+[View PDF](https://colab.research.google.com/drive/11NAohd-DR4-FyM60bxKAKQnpI_xY69J-?usp=drive_link)
 
 ## 🚀 Future Improvements
 - Add predictive modeling
