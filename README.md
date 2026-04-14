@@ -41,3 +41,14 @@ This project is currently in progress.
 - Dataset confirmed clean and ready for analysis
 
 📘 Notebook: [View Notebook](your_notebook_name.ipynb)
+
+## 📊 Stage 3 – EDA & Visualizations
+
+This stage includes:
+
+- Univariate Analysis (salary distribution, job roles, experience levels)
+- Bivariate Analysis (salary vs experience, company size)
+- Multivariate Analysis (combined feature analysis)
+- Business-focused interpretations for each visualization
+
+📘 Notebook: [View Full Analysis](EDA_Stage1_2_3_AI_Job_Market.ipynb)
