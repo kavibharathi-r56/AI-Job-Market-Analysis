@@ -32,3 +32,12 @@ This project is currently in progress.
 - Checked duplicate records  
 
 📘 Notebook: [View Stage 1 Notebook](Stage1_Problem_and_Data_Understanding.ipynb)
+
+## 🧹 Stage 2 – Data Cleaning & Preprocessing
+
+- Checked for missing values (none found)
+- Checked for duplicates (none found)
+- Verified data types
+- Dataset confirmed clean and ready for analysis
+
+📘 Notebook: [View Notebook](your_notebook_name.ipynb)
