@@ -1,34 +1,13 @@
-# AI Job Market & Salary Analysis (2025)
+# 📊 AI Job Market & Salary Analysis (2025)
 
-## 📌 Project Overview
-This project analyzes global AI job market trends using exploratory data analysis (EDA) and visualization techniques.
+---
 
-## 📊 Dataset
-- Source: Kaggle
-- Contains job roles, salaries, experience levels, company size, etc.
+This project is currently in progress.
 
-## 🔍 Analysis Performed
-- Univariate Analysis (Distribution of salary, roles)
-- Bivariate Analysis (Salary vs experience, company size)
-- Multivariate Analysis (Experience + employment type + salary)
+✔️ Completed:
+- Stage 1 – Problem Definition and Dataset Selection
 
-## 📈 Tools Used
-- Python (Pandas, Seaborn, Matplotlib)
-- Power BI (Dashboard)
-
-## 🔥 Key Insights
-- Salaries increase with experience
-- Data Scientist & ML Engineer are most in-demand roles
-- Large companies offer higher salaries
-- Full-time roles dominate the market
-
-## 📊 Dashboard
-(Insert screenshot here after uploading image)
-
-## 📄 Report
-[View PDF](https://colab.research.google.com/drive/11NAohd-DR4-FyM60bxKAKQnpI_xY69J-?usp=drive_link)
-
-## 🚀 Future Improvements
-- Add predictive modeling
-- Use larger dataset
-- Build interactive dashboard
+⏳ Upcoming:
+- Stage 2 – Data Cleaning & Preprocessing
+- Stage 3 – EDA & Visualizations
+- Stage 4 – Insights & Dashboard
