@@ -52,3 +52,9 @@ This stage includes:
 - Business-focused interpretations for each visualization
 
 📘 Notebook: [View Full Analysis](EDA_Stage1_2_3_AI_Job_Market.ipynb)
+
+## 📊 Power BI Dashboard
+
+![Dashboard](dashboard.png)
+
+📄 Report: https://drive.google.com/file/d/1d6WT4_J-k9CLIfL5X6F5CiSmr0BJFhOz/view?usp=sharing
